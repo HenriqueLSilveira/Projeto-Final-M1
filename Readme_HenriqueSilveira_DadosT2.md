@@ -142,10 +142,10 @@ Análise 2 — Qual o meio de transporte mais utilizado nos trechos?
 Identificar qual meio de transporte foi utilizado com maior frequência nas viagens oficiais.
 Informações obtidas:
 
-    meio_transporte	    total
-1	Veículo Oficial	    386424.0
-2	Aéreo	            232666.0
-3	Rodoviário	        64970.0
+        meio_transporte	    total    
+    1	Veículo Oficial	    386424.0
+    2	Aéreo	            232666.0
+    3	Rodoviário	        64970.0
 
 🍩 Gráfico de Rosca (Donut Chart)
 O gráfico de rosca evidencia a participação percentual de cada categoria em relação ao total de trechos, permitindo identificar rapidamente o meio de transporte predominante.
@@ -156,10 +156,10 @@ O gráfico de rosca evidencia a participação percentual de cada categoria em r
 Identificar quais estados brasileiros aparecem com maior frequência como destino das viagens oficiais
 Informações obtidas:
 
-    destino_uf	        total
-0	São Paulo	        82722.0
-1	Distrito Federal	79962.0
-2	Minas Gerais	    50965.0
+        destino_uf	        total
+    0	São Paulo	        82722.0
+    1	Distrito Federal	79962.0
+    2	Minas Gerais	    50965.0
 
 🍭 Gráfico de Pirulito (Lollipop Chart)
 O gráfico de pirulito proporciona uma comparação clara entre as quantidades de trechos por estado.
