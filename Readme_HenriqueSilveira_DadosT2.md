@@ -79,11 +79,11 @@ As análises da camada Silver foram realizadas diretamente sobre os dados tratad
 Identificar quais órgãos públicos concentraram os maiores gastos com viagens oficiais durante o período analisado.
 Informações obtidas:
 
-        nome_orgao_superior	                            custo_total
+        nome_orgao_superior	                                custo_total
 	1   Ministério da Justiça e Segurança Pública	        R$ 486.933.121,65
 	2   Ministério da Defesa	                            R$ 156.070.304,49
-	3   Ministério da Educação	                        R$ 111.291.349,34
-	4   Ministério do Meio Ambiente e Mudança do Clima	R$ 49.697.710,16
+	3   Ministério da Educação	                            R$ 111.291.349,34
+	4   Ministério do Meio Ambiente e Mudança do Clima	    R$ 49.697.710,16
 	5   Ministério da Previdência Social	                R$ 40.417.309,06
 
 📊 Gráfico de Barras Horizontais
@@ -109,8 +109,8 @@ O gráfico de pirulito apresenta uma visualização limpa e objetiva
 Identificar a viagem com maior duração registrada e analisar seu custo total.
 Informações obtidas:
 
-    id_viagem	        nome_orgao_superior	                trajeto	                            duracao_dias  valor_total
-0	0000000000020699856	Ministério da Previdência Social	São Paulo → São Paulo → São Paulo	383	          0.0 
+    id_viagem	                nome_orgao_superior	                trajeto	                            duracao_dias    valor_total
+    0	0000000000020699856	    Ministério da Previdência Social	São Paulo → São Paulo → São Paulo	383	            0.0 
 
 
 📊 Gráfico de Barra Vertical
