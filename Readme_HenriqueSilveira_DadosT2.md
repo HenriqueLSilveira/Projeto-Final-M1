@@ -78,6 +78,7 @@ As análises da camada Silver foram realizadas diretamente sobre os dados tratad
 
 Identificar quais órgãos públicos concentraram os maiores gastos com viagens oficiais durante o período analisado.
 Informações obtidas:
+
         nome_orgao_superior	                            custo_total
 	1   Ministério da Justiça e Segurança Pública	        R$ 486.933.121,65
 	2   Ministério da Defesa	                            R$ 156.070.304,49
@@ -107,6 +108,7 @@ O gráfico de pirulito apresenta uma visualização limpa e objetiva
 📌 Análise 3 — Qual foi a viagem de maior duração e seu custo total?
 Identificar a viagem com maior duração registrada e analisar seu custo total.
 Informações obtidas:
+
     id_viagem	        nome_orgao_superior	                trajeto	                            duracao_dias  valor_total
 0	0000000000020699856	Ministério da Previdência Social	São Paulo → São Paulo → São Paulo	383	          0.0 
 
@@ -123,6 +125,7 @@ Foram criadas tabelas agregadas contendo métricas consolidadas de viagens, paga
 📌 Análise 1 — Qual o tipo de pagamento possui maior valor médio?
 Identificar qual modalidade de pagamento apresenta o maior valor médio entre todas as viagens registradas.
 Informações obtidas:
+
         tipo_pagamento	            valor_medio
     1	PASSAGEM	                2176.967143
     2	DIÁRIAS	                    2060.436286
@@ -138,6 +141,7 @@ O gráfico permite comparar facilmente as médias entre as diferentes categorias
 Análise 2 — Qual o meio de transporte mais utilizado nos trechos?
 Identificar qual meio de transporte foi utilizado com maior frequência nas viagens oficiais.
 Informações obtidas:
+
     meio_transporte	    total
 1	Veículo Oficial	    386424.0
 2	Aéreo	            232666.0
@@ -151,6 +155,7 @@ O gráfico de rosca evidencia a participação percentual de cada categoria em r
 📌 Análise 3 — Qual UF de destino aparece em mais trechos?
 Identificar quais estados brasileiros aparecem com maior frequência como destino das viagens oficiais
 Informações obtidas:
+
     destino_uf	        total
 0	São Paulo	        82722.0
 1	Distrito Federal	79962.0
